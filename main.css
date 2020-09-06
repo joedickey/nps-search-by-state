@@ -1,0 +1,41 @@
+body {
+    font-family: 'Arial', sans-serif;
+  }
+
+ul {
+    padding-left: 0px;
+}
+  
+input[type="text"] {
+    display: block;
+    padding: 5px;
+    width: 500px;
+  }
+
+  input[type="number"] {
+    display: block;
+    padding: 5px;
+    width:40px;
+  }
+
+  input {
+      margin: 5px 0px;;
+  }
+
+  
+  button:hover {
+    cursor: pointer;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .error-message {
+      color: red;
+  }
+  
+  .hidden {
+    display: none;
+  }
